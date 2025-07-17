@@ -49,4 +49,9 @@ ran the command: git remote add origin https://github.com/amacharla15/git-revisi
 git checkout main
 
 hello akshith 
+
+created a new branch: git branch feature1 
+switched to the new branch : git checkout feature1 
+--added a line in that new branch "This is extra line" and committed and tried checking main all these changes are reverted back
+
 """
