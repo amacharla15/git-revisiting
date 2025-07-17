@@ -67,5 +67,7 @@ as I was already in main branch
 #Rebase command
 
 """
+since merge gives some issues in real life scenarios working in teams etc, we try rebase
+
 
 """
