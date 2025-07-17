@@ -46,5 +46,7 @@ ran the command: git remote add origin https://github.com/amacharla15/git-revisi
 # checkout commands 
 #branch a reference itself(head)
 """
+git checkout main
 
+hello akshith 
 """
