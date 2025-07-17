@@ -55,3 +55,17 @@ switched to the new branch : git checkout feature1
 --added a line in that new branch "This is extra line" and committed and tried checking main all these changes are reverted back
 
 """
+
+#merge commands
+
+"""
+tried merging bot the main and feature branch and recived a merge conflict
+accepted current changes --git merge feature1
+as I was already in main branch 
+"""
+
+#Rebase command
+
+"""
+
+"""
