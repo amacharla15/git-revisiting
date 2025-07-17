@@ -28,5 +28,12 @@ ran git log to check commit message, author details
 """
 create a github repo: git revisit 
 
+ran the command: git remote add origin https://github.com/amacharla15/git-revisiting.git
+ to connect repo 
+ to confirm, : git remote -v
 
+ could see: git remote -v
+
+  just added the above comments and tried pushing the file using the command:
+   git push -u origin main 
 """
