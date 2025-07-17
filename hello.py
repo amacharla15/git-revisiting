@@ -34,6 +34,12 @@ ran the command: git remote add origin https://github.com/amacharla15/git-revisi
 
  could see: git remote -v
 
-  just added the above comments and tried pushing the file using the command:
-   git push -u origin main 
+  just added the above comments and tried pushing the file using the commands:
+  for the first push : git push -u origin main  
+  git add .
+  git status
+  git commit -m "connected to repo successfully"
+   git push
+
+
 """
